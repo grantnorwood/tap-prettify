@@ -5,7 +5,7 @@ nicely readable, like so:
 
 ![Screenshot](http://labs.toolness.com/tap-prettify-2.png)
 
-To use it, simply `npm install tap-prettify` and then use the
+To use it, simply `npm install --save-dev tap-prettify` and then use the
 `tap-prettify` executable instead of `tap` to run your tests.
 
 Here's the help documentation for `tap-prettify`:
